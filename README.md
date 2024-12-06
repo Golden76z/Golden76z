@@ -6,7 +6,7 @@
   <tr>
     <td>
       <!-- First image: Top Languages -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Golden76z&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0000" alt="Top Langs" width="400"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Golden76z&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0000" alt="Top Langs" width="500"/>
     </td>
     <td style="width: 10px; background-color: white;"></td> <!-- White separator line -->
     <td>
