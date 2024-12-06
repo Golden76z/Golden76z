@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-            [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Golden76z&hide_border=true&locale=fr&background=0d1117&ring=52BFEA&stroke=52BFEA&fire=52BFEA&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF)](https://git.io/streak-stats) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Golden76z&hide_border=true&locale=fr&background=0d1117&ring=52BFEA&stroke=52BFEA&fire=52BFEA&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF)](https://git.io/streak-stats) 
 <!--
 **Golden76z/Golden76z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
