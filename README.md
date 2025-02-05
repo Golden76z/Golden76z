@@ -1,7 +1,7 @@
 # Damien PROUET
-**Full Stack Developer Student**
+**Full Stack Developer Student**  
 
-Hi, I'm Damien PROUET, a passionate developer with expertise across multiple technologies. I specialize in building robust backend services using Go and creating dynamic web applications with JavaScript, HTML, and CSS. My experience extends to mobile development, where I leverage Dart and Flutter to craft cross-platform apps. I enjoy tackling complex problems and continuously exploring new programming paradigms to deliver efficient, scalable solutions. Having worked independently on various projects, I've developed strong problem-solving skills and a deep understanding of software architecture principles.
+A passionate developer with expertise across multiple technologies. I specialize in building robust backend services using Go and creating dynamic web applications with JavaScript, HTML, and CSS. My experience extends to mobile development, where I leverage Dart and Flutter to craft cross-platform apps.
 
 ## Some stats
 <table>
