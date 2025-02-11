@@ -4,7 +4,7 @@
 A passionate developer with expertise across multiple technologies. I specialize in building robust backend services using Go and creating dynamic web applications with JavaScript, HTML, and CSS. My experience extends to mobile development, where I leverage Dart and Flutter to craft cross-platform apps.
 
 ## Some stats
-<!--
+
 <table>
  <tr>
    <td>
@@ -15,22 +15,24 @@ A passionate developer with expertise across multiple technologies. I specialize
    </td>
  </tr>
 </table>
--->
 
+
+<!--
 <table>
   <tr>
     <td>
-      <!-- First image: Top Languages -->
+       First image: Top Languages
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Golden76z&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0000" alt="Top Langs" width="400"/>
     </td>
     <td>
-      <!-- Second image: GitHub Streak -->
+      Second image: GitHub Streak
       <a href="https://git.io/streak-stats">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=Golden76z&hide_border=true&locale=fr&background=0d1117&ring=52BFEA&stroke=52BFEA&fire=52BFEA&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF" alt="GitHub Streak" width="500"/>
       </a>
     </td>
   </tr>
 </table>
+-->
 
 ## Programming Languages (Currently Learning)
 [![Go](https://img.shields.io/badge/-Go-00ADD8?&logo=Go&logoColor=ffffff&style=for-the-badge)](https://golang.org/)
