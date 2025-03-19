@@ -37,8 +37,21 @@ A passionate developer with expertise across multiple technologies. I specialize
 -->
 
 ## Programming Languages (Currently Learning) 🖥️
-[![Tech Stack](https://skillicons.dev/icons?i=go,js,html,css,dotnet,java,dart,flutter,python,git,docker,nodejs,sqlite,github,vscode)](https://skillicons.dev)
-
+[![Go](https://skillicons.dev/icons?i=go)](https://golang.org/) 
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+[![HTML5](https://skillicons.dev/icons?i=html)](https://www.w3.org/html/) 
+[![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS) 
+[![.NET](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/) 
+[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/) 
+[![Dart](https://skillicons.dev/icons?i=dart)](https://dart.dev/) 
+[![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/) 
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/) 
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/) 
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/) 
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/) 
+[![SQLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/) 
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/) 
+[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 
 </div>
 <!--
