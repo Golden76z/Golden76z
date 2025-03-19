@@ -36,7 +36,7 @@ A passionate developer with expertise across multiple technologies. I specialize
 </table>
 -->
 
-## Programming Languages (Currently Learning) 🖥️
+## Tech Stack (Currently Learning) 🖥️
 [![Go](https://skillicons.dev/icons?i=go)](https://golang.org/) 
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 [![HTML5](https://skillicons.dev/icons?i=html)](https://www.w3.org/html/) 
