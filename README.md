@@ -1,10 +1,12 @@
-# Damien PROUET
-**Full Stack Developer Student**  
+# Damien PROUET 
+**Full Stack Developer Student**  🤗
 
-A passionate developer with expertise across multiple technologies. I specialize in building robust backend services using Go and creating dynamic web applications with JavaScript, HTML, and CSS. My experience extends to mobile development, where I leverage Dart and Flutter to craft cross-platform apps.
+A passionate developer with expertise across multiple technologies. I specialize in building robust backend services using Go and creating dynamic web applications with JavaScript, HTML, and CSS. My experience extends to mobile development, where I leverage Dart and Flutter to craft cross-platform apps.  
+<br>
 
-## Some stats
+<div align="center">
 
+## Some stats 📈
 <table>
  <tr>
    <td>
@@ -34,18 +36,11 @@ A passionate developer with expertise across multiple technologies. I specialize
 </table>
 -->
 
-## Programming Languages (Currently Learning)
-[![Go](https://img.shields.io/badge/-Go-00ADD8?&logo=Go&logoColor=ffffff&style=for-the-badge)](https://golang.org/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=JavaScript&logoColor=000000&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=ffffff&style=for-the-badge)](https://www.w3.org/html/)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&logo=CSS3&logoColor=ffffff&style=for-the-badge)](https://developer.mozilla.org/fr/docs/Web/CSS)
-[![.NET](https://img.shields.io/badge/-NET-512BD4?&logo=.NET&logoColor=ffffff&style=for-the-badge)](https://dotnet.microsoft.com/)
-[![Java](https://img.shields.io/badge/-Java-007396?&logo=Java&logoColor=ffffff&style=for-the-badge)](https://www.java.com/)
-[![Dart](https://img.shields.io/badge/-Dart-0175C2?&logo=Dart&logoColor=ffffff&style=for-the-badge)](https://dart.dev/)
-[![Flutter](https://img.shields.io/badge/-Flutter-02569B?&logo=Flutter&logoColor=ffffff&style=for-the-badge)](https://flutter.dev/)
-[![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=ffffff&style=for-the-badge)](https://www.python.org/)
+## Programming Languages (Currently Learning) 🖥️
+[![Tech Stack](https://skillicons.dev/icons?i=go,js,html,css,dotnet,java,dart,flutter,python,git,docker,nodejs,sqlite,github,vscode)](https://skillicons.dev)
 
 
+</div>
 <!--
 **Golden76z/Golden76z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
