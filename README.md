@@ -18,52 +18,35 @@ A passionate developer with expertise across multiple technologies. I specialize
  </tr>
 </table>
 
-
-<!--
-<table>
-  <tr>
-    <td>
-       First image: Top Languages
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Golden76z&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0000" alt="Top Langs" width="400"/>
-    </td>
-    <td>
-      Second image: GitHub Streak
-      <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Golden76z&hide_border=true&locale=fr&background=0d1117&ring=52BFEA&stroke=52BFEA&fire=52BFEA&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF" alt="GitHub Streak" width="500"/>
-      </a>
-    </td>
-  </tr>
-</table>
--->
-
 ---
 
 ## Tech Stack (Currently Learning) 🖥️
 
-[![Go](https://skillicons.dev/icons?i=go)](https://golang.org/) [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![HTML5](https://skillicons.dev/icons?i=html)](https://www.w3.org/html/) [![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/) [![Dart](https://skillicons.dev/icons?i=dart)](https://dart.dev/) [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/) [![SQLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/)
+[![Go](https://skillicons.dev/icons?i=go)](https://golang.org/) 
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+[![TypeScript](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org/)
+[![Dart](https://skillicons.dev/icons?i=dart)](https://dart.dev/) 
+[![HTML5](https://skillicons.dev/icons?i=html)](https://www.w3.org/html/) 
+[![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS) 
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/) 
+[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/) 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="50" height="50" style="vertical-align: middle;" title="SQL">
+[![SQLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/)
 
-## Frameworks 🚀
+## Frameworks (and Front tools) 🚀
 
-[![.NET](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/) [![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/) [![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
+[![.NET](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/) 
+[![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/) 
+[![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
+[![Vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/)
+[![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
 
 ## Tools 🛠️
 
-[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/) [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/) [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
-
-
+[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/) 
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/) 
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/) 
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 
 </div>
-<!--
-**Golden76z/Golden76z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
