@@ -24,6 +24,7 @@ A passionate developer with expertise across multiple technologies. I specialize
 ## Tech Stack (Currently Learning) 🖥️
 
 [![Go](https://skillicons.dev/icons?i=go)](https://golang.org/) 
+[![Rust](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org/)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 [![TypeScript](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org/)
 [![Dart](https://skillicons.dev/icons?i=dart)](https://dart.dev/) 
