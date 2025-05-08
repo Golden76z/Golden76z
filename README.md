@@ -49,6 +49,7 @@ A passionate developer with expertise across multiple technologies. I specialize
 [![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/) 
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/) 
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/) 
-[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/) 
+[![NGINX](https://skillicons.dev/icons?i=nginx)](https://www.nginx.com/)
 
 </div>
