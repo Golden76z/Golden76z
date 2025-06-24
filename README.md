@@ -31,13 +31,13 @@ A passionate developer with expertise across multiple technologies. I specialize
 [![HTML5](https://skillicons.dev/icons?i=html)](https://www.w3.org/html/) 
 [![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS) 
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/) 
-[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/) 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="50" height="50" style="vertical-align: middle;" title="SQL">
+<!--[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/) -->
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="50" height="50" style="vertical-align: middle;" title="SQL"> -->
 [![SQLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/)
 
 ## Frameworks (and Front tools) 🚀
 
-[![.NET](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/) 
+<!--[![.NET](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/) -->
 [![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/) 
 [![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
 [![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
