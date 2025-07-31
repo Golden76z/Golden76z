@@ -1,7 +1,6 @@
 <div align="center">
  
-# Damien PROUET 
-**Full Stack Developer Student**  🤗
+## Damien PROUET - **Full Stack Developer Student**  🤗
 
 <!--A passionate developer with expertise across multiple technologies. I specialize in building robust backend services using Go and crafting dynamic web applications with Next.js, React, Tailwind CSS, and TypeScript. My experience also extends to mobile development, where I leverage Dart and Flutter to build cross-platform apps.  
 -->
