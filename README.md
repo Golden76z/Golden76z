@@ -16,7 +16,7 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,rust,typescript,dart,flutter,react,nextjs,tailwind,sqlite,docker&theme=light" />
+  <img src="https://skillicons.dev/icons?i=go,rust,typescript,dart,flutter,react,nextjs,tailwind,sqlite,docker" />
 </p>
 
 </div>
