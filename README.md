@@ -1,53 +1,22 @@
 <div align="center">
- 
-## Damien PROUET - **Full Stack Developer Student**  🤗
 
-<!--A passionate developer with expertise across multiple technologies. I specialize in building robust backend services using Go and crafting dynamic web applications with Next.js, React, Tailwind CSS, and TypeScript. My experience also extends to mobile development, where I leverage Dart and Flutter to build cross-platform apps.  
--->
-<br>
+# 🌌 Damien PROUET
+###  *Full Stack Developer Student*   •  Go & Rust enthusiast
 
+<a href="https://github.com/Golden76z">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Golden76z&hide_border=true&locale=fr&background=0d1117&ring=DAA520&stroke=DAA520&fire=DAA520&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF" width="500"/>
+</a>
 
-<!--## Some stats 📈-->
-<table>
- <tr>
-   <td>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Golden76z&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0000" alt="Top Langs" width="400"/>
-   </td>
-   <td>
-     <img src="https://github-readme-stats.vercel.app/api?username=Golden76z&theme=tokyonight&hide_border=true&bg_color=0000" alt="GitHub Stats" width="400"/>
-   </td>
- </tr>
-</table>
+</div>
 
 ---
 
+<div align="center">
+ 
 ## Tech Stack
 
-[![Go](https://skillicons.dev/icons?i=go)](https://golang.org/) 
-[![Rust](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org/)
-[![TypeScript](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org/)
-[![Dart](https://skillicons.dev/icons?i=dart)](https://dart.dev/) 
-[![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/) 
-[![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
-[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
-[![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
-[![SQLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/)
-[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/) 
-<!--[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) -->
-<!--[![HTML5](https://skillicons.dev/icons?i=html)](https://www.w3.org/html/) 
-[![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS) 
-[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/) -->
-<!--[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/) -->
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="50" height="50" style="vertical-align: middle;" title="SQL"> -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,rust,typescript,dart,flutter,react,nextjs,tailwind,sqlite,docker&theme=light" />
+</p>
 
-<!--[![.NET](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/) -->
-<!--[![Vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/)-->
-
-<!--## Tools 🛠️
-
-[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/) 
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/) 
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/) 
-[![NGINX](https://skillicons.dev/icons?i=nginx)](https://www.nginx.com/)
--->
 </div>
