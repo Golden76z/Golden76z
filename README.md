@@ -17,7 +17,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,rust,typescript,dart,flutter,react,nextjs,tailwind,sqlite,docker" />
-  <img src="https://www.w3.org/2023/02/webgpu-logos/webgpu-notext.svg" width="50" height="50" style="border-radius: 8px;" alt="WebGPU" />
+  <!-- <img src="https://www.w3.org/2023/02/webgpu-logos/webgpu-notext.svg" width="50" height="50" style="border-radius: 8px;" alt="WebGPU" /> -->
 </p>
 
 </div>
