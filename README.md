@@ -9,9 +9,7 @@
 
 </div>
 
----
-
-https://roadmap.sh/card/wide/69a8107ffe12cd319d8ae7e8?variant=dark
+<!-- https://roadmap.sh/card/wide/69a8107ffe12cd319d8ae7e8?variant=dark -->
 
 ---
 
